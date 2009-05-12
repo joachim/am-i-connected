@@ -1,0 +1,108 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Am I Connected */ = {
+		activeExec = 0;
+		executables = (
+			9209D8580FB9228400FCAE32 /* Am I Connected */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9209D8580FB9228400FCAE32 /* Am I Connected */;
+		activeSDKPreference = iphonesimulator2.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Am I Connected */;
+		codeSenseManager = 9209D8600FB922A800FCAE32 /* Code sense */;
+		executables = (
+			9209D8580FB9228400FCAE32 /* Am I Connected */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 263791236;
+			PBXWorkspaceStateSaveDate = 263791236;
+		};
+		perUserProjectItems = {
+			9209D8630FB9245300FCAE32 /* PBXBookmark */ = 9209D8630FB9245300FCAE32 /* PBXBookmark */;
+			9209D8640FB9245300FCAE32 /* PBXTextBookmark */ = 9209D8640FB9245300FCAE32 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9209D85F0FB922A800FCAE32 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9209D8580FB9228400FCAE32 /* Am I Connected */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Am I Connected";
+		sourceDirectories = (
+		);
+	};
+	9209D85F0FB922A800FCAE32 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	9209D8600FB922A800FCAE32 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9209D8630FB9245300FCAE32 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = AA925EB30F943BD000B08054 /* Am_I_Connected__AppDelegate.h */;
+	};
+	9209D8640FB9245300FCAE32 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AA925EB30F943BD000B08054 /* Am_I_Connected__AppDelegate.h */;
+		name = "Am_I_Connected__AppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 387;
+		vrLoc = 0;
+	};
+	AA925EB30F943BD000B08054 /* Am_I_Connected__AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 336}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 387}";
+		};
+	};
+}
