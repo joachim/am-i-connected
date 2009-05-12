@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Am I Connected' target in the 'Am I Connected' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
